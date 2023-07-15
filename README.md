@@ -8,6 +8,8 @@
     </a> 
 </div>
 
+
+
 - 🔭 I’m currently working on my code generator (final paper) and air quality maintenance project
 - 🌱 Currently learning Vue
 - :brazil: I'm from Tubarão, Brazil
@@ -20,6 +22,7 @@
 </div>
 
 <div>
+    
 ### Tools I work with
 
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
