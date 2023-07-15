@@ -8,17 +8,21 @@
 - 👨🏽‍🎓 Graduated in Analysis and Systems Development
 
  <div>
-  <a href="https://www.linkedin.com/in/vinicius-brigido"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbrigido&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://www.linkedin.com/in/vinicius-brigido"></a>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbrigido&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div>
-    <a href="https://www.linkedin.com/in/vinicius-brigido" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/vinicius-brigido" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+
+
+</div>
+<div>
 
 ### Tools I work with
-</div>
- <div style="display: inline_block">
+
   <img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="center" width="35" height="45">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
