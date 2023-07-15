@@ -8,7 +8,7 @@
     </a> 
 </div>
 
-
+<br/>
 
 - 🔭 I’m currently working on my code generator (final paper) and air quality maintenance project
 - 🌱 Currently learning Vue
