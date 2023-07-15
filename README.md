@@ -2,6 +2,12 @@
 
 ### My name is Vinicius, work as a developer.
 
+<div>
+    <a href="https://www.linkedin.com/in/vinicius-brigido" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+</div>
+
 - 🔭 I’m currently working on my code generator (final paper) and air quality maintenance project
 - 🌱 Currently learning Vue
 - :brazil: I'm from Tubarão, Brazil
@@ -13,15 +19,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbrigido&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <div>
-    <a href="https://www.linkedin.com/in/vinicius-brigido" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-
-
-</div>
 <div>
-
 ### Tools I work with
 
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
